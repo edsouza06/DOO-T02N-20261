@@ -71,6 +71,7 @@ public class Main {
 		
 		System.out.println("Atv 4 | Produtos acima de R$ 100: " +produtosAcimaCem);
 	}
+	//Atv 5
 	public static void executarAtv5() {
 		List<Produto> produtos = Arrays.asList(
 		new Produto("Notebook", 1000.0),
@@ -86,6 +87,7 @@ public class Main {
 		System.out.printf("Atv 5 | A soma dos Produtos: R$ %.2f \n", somaProdutos);
 				
 	}
+	//Atv 6
 	public static void executarAtv6() {
 		List<String> nomes = Arrays.asList("Java", "Python", "C", "JavaScript", "Ruby");
 		
